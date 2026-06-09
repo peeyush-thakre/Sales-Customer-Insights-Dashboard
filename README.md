@@ -1,8 +1,8 @@
-# Sales-Customer-Insights-Dashboard
+# 📊 Sales-Customer-Insights-Dashboard
 An end-to-end data analytics dashboard project showcasing sales performance, customer insights, and revenue trends using Streamlit, Power BI, Pandas, and SQL.
 
 This project demonstrates how raw transactional data can be transformed into actionable business insights through interactive dashboards and KPIs.
-🧠 Project Overview
+##🧠 Project Overview
 The Sales & Customer Insights Dashboard analyzes monthly revenue trends and key performance indicators to help stakeholders:
 
 Track revenue growth
@@ -11,7 +11,7 @@ Monitor month-over-month changes
 Make data-driven business decisions
 The project includes both a web-based Streamlit dashboard and a Power BI report to demonstrate flexibility across analytics tools.
 
-📌 Key Features
+##📌 Key Features
 🔹 Streamlit Dashboard
 Year-based filtering
 KPI cards:
